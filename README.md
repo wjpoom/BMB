@@ -12,7 +12,7 @@ If you use our work helpful, please consider citating us:
 
 ```
 @article{peng2024bmb,
-  title={BMB: Balanced Memory Bank for Long-Tailed Semi-supervised Learning},
+  title={BMB: Balanced Memory Bank for Long-Tailed Semi-Supervised Learning},
   author={Wujian Peng, Zejia Weng, Hengduo Li, Zuxuan Wu, Yu-gang Jiang}, 
   journal={IEEE Transactions on Multimedia},
   year={2024}
