@@ -1,4 +1,4 @@
-# BMB: Balanced Memory Bank for Long-Tailed Semi-supervised Learning
+# BMB: Balanced Memory Bank for Long-Tailed Semi-Supervised Learning
  :bookmark_tabs:[`Paper`]() 
  :black_nib:[`BibTex`](#black_nib-citation) 
  
